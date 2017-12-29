@@ -1,0 +1,2 @@
+/root/.ycm_build/BoostParts/CMakeFiles/BoostParts.dir
+/root/.ycm_build/ycm/CMakeFiles/ycm_core.dir
